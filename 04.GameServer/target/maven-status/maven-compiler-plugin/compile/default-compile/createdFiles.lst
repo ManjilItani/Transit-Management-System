@@ -1,0 +1,4 @@
+TicTactoe\TicTacToe\game\TicTacToeGameApplication.class
+TicTactoe\TicTacToe\game\businessobject\WinnerBO.class
+TicTactoe\TicTacToe\game\controller\GameController.class
+TicTactoe\TicTacToe\game\model\WinnerStatus.class
